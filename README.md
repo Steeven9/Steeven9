@@ -1,5 +1,5 @@
-![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/languages.svg)
+![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg?token=AGA5IL4TDZKPMK7OVIJRBHDAVBDWC)
+![Top Langs](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/languages.svg?token=AGA5IL3OUVPYYFEPDUDOA73AVBDS2)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
