@@ -1,3 +1,6 @@
+## 🤘🏻 Hi! 
+I'm a bachelor student in informatics, always trying to learn something new!
+
 ![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg?token=AGA5IL4TDZKPMK7OVIJRBHDAVBDWC)
 ![Top Langs](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/languages.svg?token=AGA5IL3OUVPYYFEPDUDOA73AVBDS2)
 
@@ -15,3 +18,8 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/dB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
 ![](https://img.shields.io/badge/dB-mongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=4479a1)
+
+## ✉️ Socials
+
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=00599C)](https://www.linkedin.com/in/stefano-taillefert/)
+[![](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=white&color=00599C)](https://steamcommunity.com/id/steeven9)
