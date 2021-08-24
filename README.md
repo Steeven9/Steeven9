@@ -1,5 +1,5 @@
 ## 🤘🏻 Hi! 
-I'm a bachelor student in informatics, always trying to learn something new!
+I'm a part time master student in Software and Data Engineering and part time Junior Software Engineer, always trying to learn something new!
 
 ![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg?token=AGA5IL4TDZKPMK7OVIJRBHDAVBDWC)
 ![Top Langs](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/languages.svg?token=AGA5IL3OUVPYYFEPDUDOA73AVBDS2)
