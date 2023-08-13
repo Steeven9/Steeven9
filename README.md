@@ -1,7 +1,9 @@
 ## 🤘🏻 Hi! 
-I'm a Site Reliability Engineer at Swisscom, always trying to learn something new! 
+I'm a Site Reliability Engineer, always trying to learn something new!
 
-You can learn more about what we do [here](https://www.swisscom.ch/en/b2bmag/cloud/site-reliability-engineering),
+In my free time I like to code and experiment stuff in my homelab - check out some of my projects in the pins below 😎
+
+You can learn more about what I do for work [here](https://www.swisscom.ch/en/b2bmag/cloud/site-reliability-engineering),
 but the gist of it is that we make sure that the beeps get the right boops and the lights keep blinking on the magic boxes.
 
 ![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg?token=AGA5IL4TDZKPMK7OVIJRBHDAVBDWC)
