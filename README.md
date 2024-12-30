@@ -7,8 +7,8 @@ In my free time I like to play video games, D&D, and experiment stuff in my home
 You can learn more about what I do for work [here](https://sre.google),
 but the gist of it is that we make sure that the beeps get the right boops and the lights keep blinking on the magic boxes.
 
-![Stats](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/overview.svg?token=AGA5IL4TDZKPMK7OVIJRBHDAVBDWC)
-![Top Langs](https://raw.githubusercontent.com/Steeven9/repo-stats/master/generated/languages.svg?token=AGA5IL3OUVPYYFEPDUDOA73AVBDS2)
+![Stats](https://raw.githubusercontent.com/Steeven9/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/Steeven9/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🔧 Technologies & Tools
 
@@ -22,10 +22,10 @@ but the gist of it is that we make sure that the beeps get the right boops and t
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/dB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
-![](https://img.shields.io/badge/dB-mongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=4479a1)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=4479a1)
 
 ## ✉️ Socials
 
-[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=00599C)](https://www.linkedin.com/in/stefano-taillefert)
-[![](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=white&color=00599C)](https://steamcommunity.com/id/steeven9)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/stefano-taillefert)
+[![](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=white&color=253f6a)](https://steamcommunity.com/id/steeven9)
