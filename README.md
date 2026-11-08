@@ -7,8 +7,8 @@ In my free time I like to play video games, D&D, and experiment stuff in my home
 You can learn more about what I do for work [here](https://sre.google),
 but the gist of it is that we make sure that the beeps get the right boops and the lights keep blinking on the magic boxes.
 
-![Stats](https://raw.githubusercontent.com/Steeven9/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Top Langs](https://raw.githubusercontent.com/Steeven9/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats](https://raw.githubusercontent.com/Steeven9/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/Steeven9/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only)
 
 ## 🔧 Technologies & Tools
 
